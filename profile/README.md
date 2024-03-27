@@ -36,8 +36,12 @@ It supports the following features:
 * In order to actually deploy the project, we had to deploy all the servers of the WebRTC architecture (STUN/TURN, signaling server), so it currently only works within the LAN.
 
 ## Achievement
+* Unlike other screen sharing platforms (Zoom, Google meet), you can see multiple screens at the same time and switch between screens very easily
+* Collaborate by drawing on the other person's screen
+> earned an A+ in Fall 2023 Capstone Design class, Chung-Ang University, South Korea.
 
 ## Contributing
+> It was made as a short-term project for 2 months, so there are a lot of imperfections. However, the idea is good and it works. I hope you guys can take a look at this code and build something bigger. If you want to contribute, please see each repository :)
 
 
 
