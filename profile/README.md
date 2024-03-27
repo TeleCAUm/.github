@@ -1,6 +1,8 @@
 # AirView: Share Screen with others
 
-![image](https://github.com/TeleCAUm/.github/assets/25452313/405721ef-4308-4610-86c9-70ceee3e4f1d)
+<div align="center">
+  <img src="https://github.com/TeleCAUm/.github/assets/25452313/913f17ae-c5ef-4791-823f-3c100480f267" alt="Mar-27-2024 11-45-26">
+</div>
 
 ## Motivation
 Video services like `Zoom` and `Google meet` only allow you to **share one screen at a time**, because they're **designed for video conferencing**, not screen sharing. As people increasingly share their screens to collaborate each other, this limitation has become an annoyance.
